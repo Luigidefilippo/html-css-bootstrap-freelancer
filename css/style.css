@@ -1,0 +1,30 @@
+/* RESET */
+img {
+    max-width: 100%;
+}
+
+header {
+    height: 80px;
+    background-color: #2C3E50;
+}
+
+.ms_menu-list {
+    list-style-type: none;
+}
+
+.ms_menu-list li {
+    margin-left: 1rem;
+}
+.title-header{
+    color: white;
+}
+.btn-header{
+    background-color: #2C3E50;
+    border: 1px solid grey;
+    padding: 5px 10px;
+    color: grey;
+}
+/* MAIN */
+.main_container{
+    background-color: aqua;
+}
