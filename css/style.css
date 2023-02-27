@@ -25,6 +25,18 @@ header {
     color: grey;
 }
 /* MAIN */
-.main_container{
+.main_contai{
     background-color: aqua;
+}
+
+
+
+
+
+.container_footer{
+    background-color: #3A546D;
+}
+
+.color_text{
+    color: white;
 }
