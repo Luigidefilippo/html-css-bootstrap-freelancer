@@ -19,6 +19,7 @@ a{
     text-decoration: none;
 }
 
+
 .ms_small-container{
     width: 60%;
     max-width: 720px;
@@ -53,10 +54,32 @@ a{
 }
 .ms_jumbo-title{
     color: white;
-    font: 2rem;
+    font: 2.5rem;
 }
 .ms_jumbo-span{
     color: white;
+}
+.ms_jumbo-p{
+    font-size: 2.5rem;
+}
+.star-hr {
+    padding: 2rem 0;
+}
+
+.star-hr i {
+    padding: 0 10px;
+}
+
+.hrule {
+    width: 80px;
+    height: 3px;
+    background-color: black;
+    border-radius: 20px;
+}
+
+
+.hrule.white {
+    background-color: white;
 }
 /* FORM */
 .form-control{
