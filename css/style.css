@@ -58,6 +58,10 @@ a{
 .ms_jumbo-span{
     color: white;
 }
+/* FORM */
+.form-control{
+    border: none;
+}
 
 /* FOOTER SECTION */
 
